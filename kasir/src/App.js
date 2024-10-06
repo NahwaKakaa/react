@@ -14,7 +14,7 @@ function App() {
             <ListCategories />
             <Col>
               <h4>
-                <strong>Product List</strong>
+                <strong>Daftar Produk</strong>
               </h4>
               <hr />
             </Col>
